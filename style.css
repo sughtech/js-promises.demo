@@ -1,0 +1,14 @@
+@import url('bootstrap.min.css');
+@import url('progress.css');
+
+#data p{
+    background-color: bisque;
+    color: indigo;
+    margin-top: 10px;
+}
+
+#data p.error{
+    background-color: red;
+    color: white;
+    margin-top: 10px;
+}
